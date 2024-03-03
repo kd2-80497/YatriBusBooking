@@ -1,0 +1,21 @@
+.home {
+    /* Background image path */
+    background-image: url('../assets/1.jpg');
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    height: 100vh; /* Set height to fill the viewport */
+    display: flex; /* For centering content */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+  }
+
+  .home h1 {
+    color: white; /* Text color */
+    /* text-align: right; Center text horizontally */
+    padding-top :-30px; 
+    margin-top: -135px;
+    
+  }
+
+  
+
